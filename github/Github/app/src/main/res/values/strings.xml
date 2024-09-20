@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">github</string>
+    <string name="please_enter_place">Please enter place</string>
+    <string name="search">Search</string>
+</resources>
